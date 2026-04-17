@@ -88,7 +88,7 @@ Cleaned job data stored in PostgreSQL and updated via automated pipeline runs.
 🚀 Future Improvements
 
 * Add logging system
-* Implement retry mechanism
+* Implement retry mechanisms
 * Add data validation
 * Build dashboard (Streamlit/Power BI)
   
